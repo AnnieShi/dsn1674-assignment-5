@@ -102,6 +102,10 @@ div {
 	float: right;
 }
 
+.div-coloured{
+	background-color: #cd5b34;
+}
+
 footer {
 	background-color: #cd5b34;
 	color: white;
