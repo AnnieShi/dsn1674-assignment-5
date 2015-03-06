@@ -46,7 +46,7 @@ h1 {
 }
 
 h2 {
-	padding: 1em 0 0;
+	text-align: center;
 }
 
 nav {
@@ -102,8 +102,15 @@ div {
 	float: right;
 }
 
-.div-coloured{
+.div-coloured {
 	background-color: #cd5b34;
+}
+
+.div-white {
+	background-color: #ffffff;
+}
+.famous {
+	color: black;
 }
 
 footer {
