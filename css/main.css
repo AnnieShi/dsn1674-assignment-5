@@ -98,12 +98,28 @@ div {
 }
 
 .quinoa-image {
-	width: 30%;
+	width: 40%;
 	float: right;
 }
 
 .div-coloured {
 	background-color: #cd5b34;
+}
+.corn {
+	width: 100%;
+}
+.rice {
+	width: 50%;
+	float: left;
+}
+.oats {
+	width: 50%;
+	float: right;
+}
+
+figcaption {
+	color: #ffffff;
+	font-style: italic;
 }
 
 .div-white {
@@ -111,6 +127,14 @@ div {
 }
 .famous {
 	color: black;
+}
+
+.dlimage {
+	width: 30%;
+	float: left;
+}
+dt {
+	font-style: bold;
 }
 
 footer {
