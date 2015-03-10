@@ -16,14 +16,14 @@ body {
 
 .grain-1{
 	float: left;
-	width: 8%;
+	width: 60px;
 	padding: 0.5em 0em 0em 0em;
 	border: 0;
 }
 
 .grain-2{
 	float: right;
-	width: 8%;
+	width: 60px;
 	padding: 0.5em 0em 0em 0em;
 	border: 0;
 }
@@ -144,9 +144,17 @@ img {
 	float: left;
 }
 
+.rice1 {
+	border: 0;
+}
+
 .oats {
 	width: 50%;
 	float: right;
+}
+
+.oats1 {
+	border: 0;
 }
 
 figure {
@@ -157,6 +165,7 @@ figcaption {
 	color: #ffffff;
 	font-style: italic;
 	text-align: center;
+	padding: 0em 0em 1em 0em;
 }
 
 .div-white {
